@@ -1,8 +1,15 @@
-### Hi there 👋 Welcome to my github! 
+# Hello, I'm Joseph! 👋
 
-* 🔭 I’m currently working on a couple of applications while learning version control on github!
+I'm a university student with a passion for anything tech! Currently, I'm focused on creating innovative projects that combine my love for technology and problem-solving.
+## 💻 Skills & Technologies
 
----
+- Languages: Python, C++
+- Frameworks & Libraries: React, Django, Node.js
+- Tools: Git, Vite, VS Code
+- Others: LaTeX, Markdown
+  
+## 🔭 Current Projects
+- **Collection Manager**: An interactive web application for tracking and displaying your collectibles!
 
 <!--
 **milkjo3/milkjo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
