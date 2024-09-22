@@ -4,9 +4,9 @@ I'm a university student with a passion for anything tech! Currently, I'm focuse
 ## 💻 Skills & Technologies
 
 - Languages: Python, C++
-- Frameworks & Libraries: React, Django, Node.js
-- Tools: Git, Vite, VS Code
-- Others: LaTeX, Markdown
+- Frameworks & Libraries: React, Django
+- Tools: Git/Github, VS Code
+- Others: LaTeX, Markdown, Agile Methodology, pandas, Numpy
   
 ## 🔭 Current Projects
 - **Collection Manager**: An interactive web application for tracking and displaying your collectibles!
