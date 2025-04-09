@@ -3,7 +3,7 @@
 I'm a university student with a passion for anything tech! Currently, I'm focused on creating innovative projects that combine my love for technology and problem-solving.
 ## 💻 Skills & Technologies
 
-- Languages: Python, C++
+- Languages: Python, C++, Go
 - Frameworks & Libraries: React, Django
 - Tools: Git/Github, VS Code
 - Others: LaTeX, Markdown, Agile Methodology, pandas, Numpy
