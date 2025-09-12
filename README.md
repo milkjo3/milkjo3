@@ -1,16 +1,15 @@
 # Hello, I'm Joseph! 👋
 
 I'm a university student with a passion for anything tech! Currently, I'm focused on creating innovative projects that combine my love for technology and problem-solving.
-## 💻 Skills & Technologies
+## Skills & Technologies
 
-- Languages: Python, C++, Go
-- Frameworks & Libraries: React, Django
-- Tools: Git/Github, VS Code
-- Others: LaTeX, Markdown, Agile Methodology, pandas, Numpy
+- Languages: Python, C/C++, Golang
+- Frameworks & Libraries: React
+- Tools: Git/Github, VS Code, Arduino IDE
+- Other: LaTeX, Markdown, Agile Methodology, pandas, Numpy
   
 ## 🔭 Current Projects
-- **Collection Manager**: An interactive web application for tracking and displaying your collectibles.
-- **Pokemon Go Helper**: A additive tool using computer vision to help improve a player's performance in a POGO battle.
+
 
 <!--
 **milkjo3/milkjo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
