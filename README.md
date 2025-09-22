@@ -7,9 +7,6 @@ I'm a university student with a passion for anything tech! Currently, I'm focuse
 - Frameworks & Libraries: React
 - Tools: Git/Github, VS Code, Arduino IDE
 - Other: LaTeX, Markdown, pandas, Numpy, Linux/Unix Systems
-  
-## 🔭 Current Projects
-
 
 <!--
 **milkjo3/milkjo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
