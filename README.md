@@ -3,10 +3,10 @@
 I'm a university student with a passion for anything tech! Currently, I'm focused on creating innovative projects that combine my love for technology and problem-solving.
 ## Skills & Technologies
 
-- Languages: Python, C/C++, Golang
+- Languages: Python, C/C++, Golang, Javascript, CSS, HTML
 - Frameworks & Libraries: React
 - Tools: Git/Github, VS Code, Arduino IDE
-- Other: LaTeX, Markdown, Agile Methodology, pandas, Numpy
+- Other: LaTeX, Markdown, pandas, Numpy, Linux/Unix Systems
   
 ## 🔭 Current Projects
 
